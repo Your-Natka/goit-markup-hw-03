@@ -349,12 +349,13 @@ a {
   color: #f4f4fd;
 }
 
+.logo-color {
+  color: #f4f4fd;
+}
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  color: #f4f4fd;
 }
-
 .footer-text {
   max-width: 264px;
   font-size: 16px;
